@@ -1,3 +1,7 @@
 # Lucas
 
 ---
+
+Experiencia:
+
+Sem experiencia
