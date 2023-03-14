@@ -1,4 +1,4 @@
-# Lucas Gostosinho
+# Lucas
 
 ---
 Endereço: XXXXXX - Oriente - SP
@@ -7,5 +7,5 @@ Endereço: XXXXXX - Oriente - SP
 ---
 Experiencia:
 
-Sem experiencia
+Formado em ADS
 
